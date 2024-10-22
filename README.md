@@ -18,3 +18,5 @@ Dataset yang dipakai menggunakan dataset berikut : rockpaperscissors, atau gunak
 - Program dikerjakan pada Google Colaboratory.
 - Akurasi dari model minimal 85%.
 - Dapat memprediksi gambar
+  
+![test (1)](https://github.com/user-attachments/assets/0ca06262-413a-4385-bf20-acc830012724)
